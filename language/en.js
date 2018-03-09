@@ -128,28 +128,24 @@ var Translations = {
             "states": [
                 {
                     "cardId": "ce372039",
-                    "width": 40
+                    "width": 60
+                },
+				{
+                    "cardId": "7ebe23a6",
+                    "width": 60
                 }
   
-            ]
-        },
-        {
-            "label": "Sign Up",
-            "states": [
-                {
-                    "cardId": "36e0466c",
-                    "width": 20
-                }
             ]
         },
         {
             "label": "Thank You",
             "states": [
                 {
-                    "cardId": "END",
+                    "cardId": "36e0466c",
                     "width": 20
                 }
             ]
         }
+ 
     ]
 }
