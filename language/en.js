@@ -127,20 +127,17 @@ var Translations = {
             "label": "Proposal Explanation",
             "states": [
                 {
-                    "cardId": "77a834f0",
-                    "width": 20
-                },
-                {
-                    "cardId": "c23a68c9",
-                    "width": 20
+                    "cardId": "ce372039",
+                    "width": 40
                 }
+  
             ]
         },
         {
             "label": "Sign Up",
             "states": [
                 {
-                    "cardId": "6b0123a5",
+                    "cardId": "36e0466c",
                     "width": 20
                 }
             ]
@@ -149,7 +146,7 @@ var Translations = {
             "label": "Thank You",
             "states": [
                 {
-                    "cardId": "7b0123a5",
+                    "cardId": "END",
                     "width": 20
                 }
             ]
