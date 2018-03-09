@@ -62,7 +62,7 @@ var Translations = {
             "icon": "share"
         },
         "button4": {
-            "card": "d1b4d742",
+            "url": "http://localhost:8201/personaWeb/auth/b2c/b2c",
             "label": "Website",
             "icon": "website"
         },
