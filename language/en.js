@@ -22,7 +22,7 @@ var Translations = {
     "CollapseText": "Collapse",
     "ExpandText": "Expand",
 
-    "PreparedForText": "Prepared for",
+    "PreparedForText": "Exclusiv erstellt für",
 
     "CopyrightText": "Copyright " + Utils.getFullYear() + " BankOne",
     "PoweredByFooterText": "Powered by",
@@ -48,7 +48,7 @@ var Translations = {
     "CtaButtonSettings": {
         "button1": {
             "card": "d1b4d742",
-            "label": "Contact Me",
+            "label": "Rückruf",
             "icon": "contact"
         },
         "button2": {
@@ -58,7 +58,7 @@ var Translations = {
         },
 		"button3": {
             "url": "http://example.com/",
-            "label": "Share",
+            "label": "Teilen",
             "icon": "share"
         },
         "button4": {
@@ -68,7 +68,7 @@ var Translations = {
         },
         "button5": {
             "card": "d1b4d742",
-            "label": "Save",
+            "label": "Speichern",
             "icon": "save"
         }
 
@@ -115,7 +115,7 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "Einführung",
             "states": [
                 {
                     "cardId": "START",
@@ -124,7 +124,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Proposal Explanation",
+            "label": "Angebot Erläuterung",
             "states": [
                 {
                     "cardId": "ce372039",
@@ -138,7 +138,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Thank You",
+            "label": "Vielen Dank",
             "states": [
                 {
                     "cardId": "36e0466c",
